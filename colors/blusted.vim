@@ -39,9 +39,9 @@ hi Include          cterm=none  ctermbg=none  ctermfg=69   gui=none  guibg=none 
 hi Comment          cterm=none  ctermbg=none  ctermfg=240  gui=none  guibg=none  guifg=#585858
 hi String           cterm=none  ctermbg=none  ctermfg=45   gui=none  guibg=none  guifg=#00d7ff
 hi Number           cterm=none  ctermbg=none  ctermfg=45   gui=none  guibg=none  guifg=#00d7ff
-hi Constant         cterm=none  ctermbg=none  ctermfg=177  gui=none  guibg=none  guidf=#d787ff
+hi Constant         cterm=none  ctermbg=none  ctermfg=177  gui=none  guibg=none  guifg=#d787ff
 hi Conditional      cterm=none  ctermbg=none  ctermfg=69   gui=none  guibg=none  guifg=#5f87ff
-hi Identifier       cterm=none  ctermbg=none  ctermfg=33   gui=none  guibg=none  guidf=#0087ff
+hi Identifier       cterm=none  ctermbg=none  ctermfg=33   gui=none  guibg=none  guifg=#0087ff
 hi Macro            cterm=none  ctermbg=none  ctermfg=69   gui=none  guibg=none  guifg=#5f87ff
 hi link Function    Normal
 hi Operator         cterm=none  ctermbg=none  ctermfg=69   gui=none  guibg=none  guifg=#5f87ff
