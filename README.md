@@ -3,7 +3,7 @@ Blusted (Vim edition)
 
 Yet another dark colour scheme for Vim.
 
-Ported from [Sublime scheme of the same name](https://raw.githubusercontent.com/Mendor/sublime-blusted/).
+Ported from [Sublime scheme of the same name](https://github.com/Mendor/sublime-blusted/).
 
 ### Installation and usage:
 ```
